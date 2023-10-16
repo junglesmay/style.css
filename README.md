@@ -14,7 +14,7 @@
 <section class="principal container">
 <div class="container__caixa">
 <h1 class="container__titulo">BULLYING.</h1>
-<img src="img/Combo.png" ="O bullying é a prática de violência física e psicológica. Ele pode ser cometido em qualquer ambiente, como a escola, igreja,trabalho e na própria casa." class="container__imagem">
+<img src="img/https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.resguarda.com%2Fwp-content%2Fuploads%2F2023%2F04%2FBullying.jpg&tbnid=8OL3ZgxezyjF8M&vet=12ahUKEwiry52KgPuBAxVJr5UCHbTqA04QMygCegQIARBq..i&imgrefurl=https%3A%2F%2Fwww.resguarda.com%2Fpt%2F2-de-maio-dia-mundial-contra-o-bullying%2F&docid=0TSKcMH6oVU66M&w=626&h=417&q=bullying&ved=2ahUKEwiry52KgPuBAxVJr5UCHbTqA04QMygCegQIARBq" alt="O bullying é a prática de violência física e psicológica. Ele pode ser cometido em qualquer ambiente, como a escola, igreja,trabalho e na própria casa." class="container__imagem">
 <a href="www.alura.com.br" class="container__botao">Assine por 12x de R$ 120,00*</a>
 <a href="www.alura.com.br" class="container__botao botao_secundario">Assinar somente o Alura+</a>
 <p class="container__aviso">*O preço pode variar caso a assinatura seja feita em outros planos.</p>
