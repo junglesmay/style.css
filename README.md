@@ -4,4 +4,6 @@ O bullying é um tipo de violência tanto física quanto psicológica,é pratica
 
 Todos dvem combater o bullying e isso está na Lei, se você presenciar alguma cena desconfortante de bullying, ou cyberbullying, deve ajudar a vítima.
 
-O ensinamento do certo e do errado precisa partir da família, desde cedo. A criança tem de crescer e evoluir sem esses preconceitos, para que ela possa passar essa educação para seus colegas e também entender com quais tipos de pessoas manter amizade.
+O ensinamento do certo e do errado precisa partir da família, desde cedo. A criança tem de crescer e evoluir sem esses preconceitos, para que ela possa passar essa educação para seus colegas e também entender com quais tipos de pessoas manter a amizade.
+
+Se você sofre 
