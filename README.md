@@ -6,4 +6,3 @@ Todos dvem combater o bullying e isso está na Lei, se você presenciar alguma c
 
 O ensinamento do certo e do errado precisa partir da família, desde cedo. A criança tem de crescer e evoluir sem esses preconceitos, para que ela possa passar essa educação para seus colegas e também entender com quais tipos de pessoas manter a amizade.
 
-Se você sofre 
